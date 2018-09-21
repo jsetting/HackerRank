@@ -5,4 +5,7 @@ Each course is put into its own folder, with a file named for each challenge
 
 ## Courses
 ### C++
+- Class
+- Classes and Objects
 - StringStream
+- Structs

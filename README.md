@@ -8,6 +8,9 @@ Each course is put into its own folder, with a file named for each challenge
 - Box It!
 - Class
 - Classes and Objects
+- Lower Bound - STL
+- Maps - STL
+- Sets - STL
 - StringStream
 - Structs
 - Vector-Erase

@@ -8,8 +8,10 @@ Each course is put into its own folder, with a file named for each challenge
 - Box It!
 - Class
 - Classes and Objects
+- Inheritance Introduction
 - Lower Bound - STL
 - Maps - STL
+- Print Pretty
 - Sets - STL
 - StringStream
 - Structs
